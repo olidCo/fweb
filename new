@@ -1,0 +1,33 @@
+<html lang="zh-cn">
+</head>
+</body>
+<div style="
+background-color:	#F0F8FF;
+text-align:center;
+padding:40px;
+">
+<img src='https://www.midorg.com/logo.png'alt="随边"width="80px"height="80px">
+</div>
+<div style="
+max-width:800px;
+margin:40px auto;
+padding: 15px;
+line-height: red;
+">
+<p>你好，浏览器</p>
+<p>你好，浏览器</p>
+<p>你好，浏览器</p>
+<p>你好，浏览器</p>
+<p>你好，浏览器</p>
+
+</div>
+<div style="
+background-color:	#F0F8FF;
+text-align:center;
+padding:40px;
+">
+<p>我的网站</p>
+<a href="https://www.bilibili.com/">友情链接</a>
+</div>
+</body>
+</html>
